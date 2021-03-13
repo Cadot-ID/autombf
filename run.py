@@ -1,8 +1,5 @@
 from collections import OrderedDict
- # Obfuscate By 5H311_1NJ3C706
- # Youtube : Penjahat Cyber
- # Contact : +628994422616
- # Team : TROJAN CYBER SECURITY
+ # Encrypt by: Patar sec
 exec("".join(map(chr,[int("".join(str(OrderedDict([(':)', 0),
              (':D', 1),
              (':P', 2),
